@@ -6,7 +6,10 @@
 
 - This app Uses Teachable machine.
 - Train a computer to recognize your own images, sounds, & poses. 
-- Create a Neural network [here] (https://teachablemachine.withgoogle.com/)
+- Create a Neural network [here](https://teachablemachine.withgoogle.com/)
+
+## Flutter 
+- Flutter is an open-source UI software development kit created by Google. It is used to develop applications for Android, iOS.
 
 #### The App Overview
   - ![homescreen](https://github.com/NacharamSuraj/catvsdog/blob/master/first.png)
